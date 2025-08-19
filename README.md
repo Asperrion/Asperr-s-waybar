@@ -2,7 +2,7 @@
 
 * Для начала установим наш [waybar](https://github.com/Alexays/Waybar)
   * на дистрибутиве Arch вот такая команда ```sudo pacman -S waybar```
-* Далее нам нужно создать директорию waybar по поути ~/.config/waybar
+* Далее нам нужно создать директорию waybar по пути ~/.config/waybar
   * что бы это сделать пропишем следующее ```mkdir ~/.config/waybar```
 * Закидываем файлы из нашего репозитория туда
 
