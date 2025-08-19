@@ -1,4 +1,4 @@
-## Как установит?
+## Как установить?
 
 * Для начала установим наш [waybar](https://github.com/Alexays/Waybar)
   * на дистрибутиве Arch вот такая команда ```sudo pacman -S waybar```
